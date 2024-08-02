@@ -1,0 +1,756 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://vsnhs.in/
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\index.htm
+Content Type: text/html
+
+Uri: https://vsnhs.in/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/cdn-cgi/l/email-protection
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://vsnhs.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://vsnhs.in/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://vsnhs.in/img/gal/1.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\1.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/2.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\2.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/3.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\3.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/4.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\4.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/5.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\5.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/6.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\6.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/7.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\7.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/gal/8.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\gal\8.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/infra_camp.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\infra_camp.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/infra_compu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\infra_compu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/infra_hos.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\infra_hos.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/infra_lab.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\infra_lab.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/infra_trans.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\infra_trans.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/logo.png
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\logo.png
+Content Type: image/png
+
+Uri: https://vsnhs.in/img/para_about.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_about.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_ac.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_ac.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_admision.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_admision.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_conta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_conta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_gal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_gal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_glory.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_glory.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_infra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_infra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_moto.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_moto.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/para_staff.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\para_staff.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/10_am.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\10_am.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/10_ts.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\10_ts.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/12_sp.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\12_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/13_sd.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\13_sd.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/14_sb.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\14_sb.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/15_rc.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\15_rc.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/17_ap.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\17_ap.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/17_dg.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\17_dg.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/17_sd.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\17_sd.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/17_sm.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\17_sm.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/17_smon.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\17_smon.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/18_am.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\18_am.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/18_dm.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\18_dm.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/18_sp.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\18_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_ab.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_ab.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_as.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_as.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_in.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_in.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_ks.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_ks.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_lp.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_lp.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/19_rc.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\19_rc.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/20_am.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\20_am.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/20_as.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\20_as.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/20_dd.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\20_dd.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/g_db.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\g_db.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/g_ik.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\g_ik.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/g_sb.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\g_sb.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/ranker/g_sg.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\ranker\g_sg.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/Sec.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\Sec.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Abhijit-Mondal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Abhijit-Mondal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Adhip-Patsa.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Adhip-Patsa.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Animesh-Banerjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Animesh-Banerjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Anindita-Chakraborty-Nag.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Anindita-Chakraborty-Nag.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Anusri-Patra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Anusri-Patra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Apurba-Kumar-Dandapath.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Apurba-Kumar-Dandapath.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Autashi-Patra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Autashi-Patra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/babu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\babu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Bibaswan-Nayak.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Bibaswan-Nayak.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Bibekananda-Barik.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Bibekananda-Barik.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/ALAKA--maldal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\ALAKA--maldal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Amitava-Ghatak.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Amitava-Ghatak.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Amitesh-Pati.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Amitesh-Pati.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/AMIYA-KUMAR-PAL.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\AMIYA-KUMAR-PAL.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/chaitali-majumdar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\chaitali-majumdar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/chandan-banerjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\chandan-banerjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Chandranath-Mukhopadhyay.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Chandranath-Mukhopadhyay.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/h-mal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\h-mal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Jayati-Patra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Jayati-Patra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/MADHUSUDAN-DUTTA.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\MADHUSUDAN-DUTTA.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/manashi-patra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\manashi-patra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/MAUSUMI-PATI.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\MAUSUMI-PATI.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Monimoy-Kanti-Guha.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Monimoy-Kanti-Guha.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Pinaki-Pujaru.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Pinaki-Pujaru.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Prabir-Kumar-Chattaraj.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Prabir-Kumar-Chattaraj.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Rajib-Kundu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Rajib-Kundu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/rkundu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\rkundu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/s-samanra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\s-samanra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/samir-mahanty.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\samir-mahanty.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Sandip_kundu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Sandip_kundu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/SANJOY-SINHAMAHAPATRA.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\SANJOY-SINHAMAHAPATRA.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Satinath-Haldar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Satinath-Haldar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Siddhartha-Chattopadhyay.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Siddhartha-Chattopadhyay.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Sougata-Chatterjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Sougata-Chatterjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Subham-Chatterjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Subham-Chatterjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Subhash-Saw.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Subhash-Saw.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Subrata-Dey.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Subrata-Dey.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Sudipta-Gorain.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Sudipta-Gorain.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/supriti-mukherjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\supriti-mukherjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/s_pain.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\s_pain.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/bm/Vivek-Atha.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\bm\Vivek-Atha.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Britidal-Bhattacharya.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Britidal-Bhattacharya.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Chaitali-Sengupta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Chaitali-Sengupta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/CHANDAN-CHATTERJEE.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\CHANDAN-CHATTERJEE.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Chandi-De.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Chandi-De.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Debasmita-Singhachowdhury.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Debasmita-Singhachowdhury.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/debopriyo-pal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\debopriyo-pal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Dhananjoy-Mandal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Dhananjoy-Mandal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Gobinda-Karmakar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Gobinda-Karmakar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Kamalika-Sengupta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Kamalika-Sengupta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/lina-mishra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\lina-mishra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Madan-Goswami.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Madan-Goswami.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Manasi-Patra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Manasi-Patra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Manisha-Kar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Manisha-Kar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Manisha-Mahanta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Manisha-Mahanta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Manishankar-Singhamahapatra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Manishankar-Singhamahapatra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Monidipa-Sarkar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Monidipa-Sarkar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/moumita-mahapatra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\moumita-mahapatra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Mrityunjoy-Mandal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Mrityunjoy-Mandal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/nd.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\nd.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Nilanjan-Mandal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Nilanjan-Mandal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/patit-paban-ghosh.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\patit-paban-ghosh.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Pinky-Nayak.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Pinky-Nayak.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Prasanta-Kumar-De.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Prasanta-Kumar-De.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/prasanta-prasait.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\prasanta-prasait.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Prasenjit-Dhara.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Prasenjit-Dhara.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/PRATIVA-KUNDU.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\PRATIVA-KUNDU.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Pritilata-Das.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Pritilata-Das.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Puja-Acharya.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Puja-Acharya.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/puja-sao-mukherjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\puja-sao-mukherjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Ranjana-Ghosh.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Ranjana-Ghosh.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Ranjit-Kumbhakar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Ranjit-Kumbhakar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Ruma-Sengupta-(Kabiraj).jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Ruma-Sengupta-(Kabiraj).jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Rupali-Nandi.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Rupali-Nandi.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/samar_ghosh.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\samar_ghosh.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Samhati-Chakraborty.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Samhati-Chakraborty.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sandip-dutta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sandip-dutta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sanjib-Mitra.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sanjib-Mitra.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sanjoy-Karmakar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sanjoy-Karmakar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sanjoy_mandal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sanjoy_mandal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sarbani-Ghosh.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sarbani-Ghosh.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Satadal-Maity.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Satadal-Maity.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Saurav-Banerjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Saurav-Banerjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Shantanu-Kundu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Shantanu-Kundu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/shilpi-mukherjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\shilpi-mukherjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Snigdha-Sinhababu.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Snigdha-Sinhababu.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Soma-Mandal.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Soma-Mandal.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sourav-Lai.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sourav-Lai.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Subhajit-Ghosh.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Subhajit-Ghosh.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/subhra-pariksha.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\subhra-pariksha.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/subinoy-das.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\subinoy-das.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/subrata-de.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\subrata-de.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Subrata-Rakshit.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Subrata-Rakshit.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sudarson-Chakraborty.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sudarson-Chakraborty.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sudip_smp.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sudip_smp.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sumita-Panda.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sumita-Panda.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sumit_pathak.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sumit_pathak.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/SUPRIYA-CHATTERJEE-PATI.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\SUPRIYA-CHATTERJEE-PATI.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Susmita-Atta.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Susmita-Atta.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sutapa-Karmakar.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sutapa-Karmakar.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Swapan-Panda.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Swapan-Panda.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/sweety-roy.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\sweety-roy.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Sweta-Srivastav.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Sweta-Srivastav.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/SYAMAL-BARAN-PATI.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\SYAMAL-BARAN-PATI.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Tanushree-Banerjee.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Tanushree-Banerjee.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/tapan-pati.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\tapan-pati.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/TAPAS-CHAKRABORTY.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\TAPAS-CHAKRABORTY.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/tapas-ruidas.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\tapas-ruidas.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/TEJSHANKAR-KUSHWAHA.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\TEJSHANKAR-KUSHWAHA.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/tkg.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\tkg.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/staff/Upen-Mandi.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\staff\Upen-Mandi.jpg
+Content Type: image/jpeg
+
+Uri: https://vsnhs.in/img/viv.jpg
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\img\viv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.w3schools.com/w3css/4/w3.css
+File Name: C:\Downloaded-Web-Sites\vsnhs.in\w3css\4\w3.css
+Content Type: text/css
+
